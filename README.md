@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://countme.onrender.com/pvc/?username=haki-user)
 
 <!--
 **haki-user/haki-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
